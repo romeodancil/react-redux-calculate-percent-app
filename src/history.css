@@ -1,0 +1,11 @@
+.history {
+    width: 100%;
+    align-items: center;
+    padding-left: 300px;
+    margin-top: 40px;
+}
+
+.history > .history-container {
+    width: 50%;
+
+}
